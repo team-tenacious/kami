@@ -1,2 +1,0 @@
-# kami
-digital house spirits
