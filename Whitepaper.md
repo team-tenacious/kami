@@ -10,7 +10,7 @@ Digital Kami are made by 3d artists or creators, who publish the code to a centr
 
 The first Kami to exist on the market will be the demo-gods, to show that the technology works.
 
-## seakers, creators and crests
+## seekers, creators and crests
 
 The crest is a symbol for a creator or seeker, containing a digital [steganographic](https://en.wikipedia.org/wiki/Steganography) watermark ensuring it is both identifiable by man or machine. It must be possible to extract an ethereum address from the symbol. Creators are digital artists who create and sell Kami, seekers are those who purchase and enshrine their Kami. 
 
