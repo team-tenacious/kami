@@ -6,21 +6,21 @@ digital [household deities](https://en.wikipedia.org/wiki/Household_deity) on th
 
 Kami (Japanese: 神, [kaꜜmi]) are the spirits or phenomena that are worshipped in the religion of [Shinto](https://en.wikipedia.org/wiki/Shinto_in_popular_culture). They can be elements of the landscape, forces of nature, as well as beings and the qualities that these beings express; they can also be the spirits of venerated dead persons. Many kami are considered the ancient ancestors of entire clans (some ancestors became kami upon their death if they were able to embody the values and virtues of kami in life). Traditionally, great or sensational leaders like the Emperor could be or became kami.
 
-Digital Kami are made by 3d artists or creators, who publish the code to a central marketplace where they can be bought by seekers (owners/devotees/seekers of wisdom), the creators of Kami sign their works digitally with a "creators mark" or crest, that is a human-friendly symbol that encodes a public key to ensure originality. Kami become in effect 3d augmented sculptures that are owned by seekers. Each devotee possesses a crest as well, the same mechanism of the creators mark, which is attached to a digital altar which placed on any horizontal surface becomes a location where spirits owned by the devotee manifest themselves via augmented reality.
+Digital Kami are made by 3d artists or creators, who publish the code to a central marketplace where they can be bought by seekers (owners/devotees/seekers of wisdom), the creators of Kami sign their works digitally with a "makers mark" or creators seal, that is a human-friendly symbol that encodes a public key to ensure originality. Kami become in effect 3d augmented sculptures that are owned by seekers. Each devotee possesses a seal as well, the same mechanism of the creators seal, which is represents the digital shrine, and when placed on any horizontal surface becomes a location where spirits owned by the devotee manifest themselves via augmented reality.
 
 The first Kami to exist on the market will be the demo-gods, to show that the technology works.
 
-## seekers, creators and crests
+## seekers, creators and seals
 
-The crest is a symbol for a creator or seeker, containing a digital [steganographic](https://en.wikipedia.org/wiki/Steganography) watermark ensuring it is both identifiable by man or machine. It must be possible to extract an ethereum address from the symbol. Creators are digital artists who create and sell Kami, seekers are those who purchase and enshrine their Kami. 
+The seal is a symbol for a creator or seeker, containing a digital [steganographic](https://en.wikipedia.org/wiki/Steganography) watermark ensuring it is both identifiable by man or machine. It must be possible to extract an ethereum address from the symbol. Creators are digital artists who create and sell Kami, seekers are those who purchase and enshrine their Kami. 
 
 ## celestial plane
 
-The API and central hub where off-chain Kami data is stored, and the UI for the Kami trading hub is served from. We could also use a technology like [ipfs](https://ipfs.io/) for this to make the entire system autonomous.
+The API and central hub where off-chain Kami data are stored, and the UI for the Kami trading hub is served from. We could also use a technology like [ipfs](https://ipfs.io/) to serve this to make the entire system autonomous.
 
 ## the veil
 
-Augmented reality app for viewing Kami manifestations. (mobile app / AR HUD / VR HUD) 
+Augmented reality app for viewing Kami manifestations. (mobile app / AR [HUD](https://en.wikipedia.org/wiki/Head-up_display)) 
 
 ## the shrine
 
@@ -49,8 +49,15 @@ Any push interaction with the celestial plane comes at a cost, as the planes int
 There is a rich heritage in folklore for most cultures involving household deities or lesser god-like beings or spirits, of interest here are the eastern cultures: [China](https://en.wikipedia.org/wiki/Kitchen_God), [Japan](https://en.wikipedia.org/wiki/Shinto) and [Korea](https://en.wikipedia.org/wiki/Gasin_faith). Notably these cultures are also early adopters of crypto-currencies, this mix of culture and decentralization early adoption may make the ideal earthly plane for Kami to manifest themselves in.
 
 ## refs
+
 https://en.wikipedia.org/wiki/Shinto_in_popular_culture
 https://en.wikipedia.org/wiki/Zashiki-warashi
+https://en.wikipedia.org/wiki/Shen_(Chinese_religion)
+
+## possible AR solution
+
+https://www.wikitude.com/blog-build-pokemon-go-app/
+
 
 
 
